@@ -1,0 +1,26 @@
+{
+  "name": "cypress-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielpchara/cypress-runner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielpchara/cypress-runner/issues"
+  },
+  "homepage": "https://github.com/arielpchara/cypress-runner#readme",
+  "dependencies": {
+    "cypress": "^8.3.1"
+  },
+  "devDependencies": {
+    "@types/cypress": "^1.1.3"
+  }
+}
