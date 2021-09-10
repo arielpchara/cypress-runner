@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/arielpchara/cypress-runner#readme",
   "dependencies": {
+    "cypress": "^8.3.1"
   },
   "devDependencies": {}
 }
