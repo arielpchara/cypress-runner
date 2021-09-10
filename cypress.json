@@ -2,9 +2,8 @@
     "baseUrl": "http://localhost:8080",
     "testFiles": ["**/*.spec.js"],
     "video": false,
-    "reporter": "junit",
+    "reporter": "mocha-junit-reporter",
     "reporterOptions": {
-      "mochaFile": "reports/output.xml",
-      "toConsole": false
+      "mochaFile": "./reports/output.xml"
     }
   }
